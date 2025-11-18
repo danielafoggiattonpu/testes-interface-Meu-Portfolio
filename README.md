@@ -144,8 +144,7 @@ Este repositório está licenciado sob a [MIT License](LICENSE) (ou outra licen�
 
 **Daniela Foggiatto**
 
-* LinkedIn: *seu-link-aqui*
-* Site / Portfólio: *seu-portfolio-aqui*
+* LinkedIn: *https://www.linkedin.com/in/daniela-foggiatto-a1287b2a4/?profileId=ACoAAEl0pu4BFPrbsOph29s1hzmx95ZW2FvpunM*
 
 ---
 
