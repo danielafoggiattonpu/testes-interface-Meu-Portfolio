@@ -41,13 +41,4 @@ jobs:
         run: |
           npx playwright test --reporter=list
 
-      - name: Upload Playwright HTML report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: playwright-report
-          path: playwright-report
-
-      - name: Show HTML report (for debugging)
-        if: always()
-        run: npx playwright show-report || true
+    
